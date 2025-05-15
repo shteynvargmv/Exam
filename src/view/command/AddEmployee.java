@@ -6,7 +6,7 @@ public class AddEmployee extends Command{
 
     public AddEmployee(Console console) {
         super(console);
-        menuText = "Добавить сотрудника";
+        menuText = "Принять на работу нового сотрудника";
     }
 
     @Override
